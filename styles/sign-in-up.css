@@ -117,3 +117,6 @@ select:hover {
     cursor: pointer;
     color: #00ff7f
 }
+.move-sign-up{
+    text-decoration: none;
+}
